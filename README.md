@@ -8,25 +8,25 @@ A Colorado Board of Elections employee has give you the following tasks to compl
   3. Calculate the total number of votes each candidate received.
   4. Calculate the percentage of votes each candidate received.
   5. Determine the winner of the election based on popular vote.
- 
-##Resources 
-Date Source: election_results.csv
-Software: Pythone 3.76, Visual Studio, 
+  
+## Resources 
+ - Date Source: election_results.csv
+ - Software: Pythone 3.76, Visual Studio, 
 
-##Summary
+## Summary
 The analysis of the election show that: 
-  1. There were 369,711 votes cast in theelection.
-  2. The candidates were:
-      a. Charles Casper Stockham
-      b. Diana DeGette
-      c. Raymon Anthony Doane
-  3. The candidate results were:
-      a. Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
-      b. Diana DeGette received 73.8% of the vote and 272,892 number of the votes 
-      c. Raymon Anthony Doane received 3.1% of the vote and 11,606 number of the votes
-  4. The winner of the election was: 
-      a. Diana DeGette, who received 73.8% of the vote and 272,892 number of the votes 
+  - There were 369,711 votes cast in the election.
+  - The candidates were:
+      - Charles Casper Stockham
+      - Diana DeGette
+      - Raymon Anthony Doane
+  - The candidate results were:
+      - Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
+      - Diana DeGette received 73.8% of the vote and 272,892 number of the votes 
+      - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of the votes
+  - The winner of the election was: 
+      - Diana DeGette, who received 73.8% of the vote and 272,892 number of the votes 
 
-##Challenge Overview
+## Challenge Overview
 
-#Challenge Summary
+## Challenge Summary
